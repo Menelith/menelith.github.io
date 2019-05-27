@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Menelith - low level Dev, ASM, Go, Malware Development and Analysis</title>
-    <link>https://example.com/categories/</link>
+    <link>https://menelith.tech/categories/</link>
     <description>Recent content in Categories on Menelith - low level Dev, ASM, Go, Malware Development and Analysis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://menelith.tech/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>asm</title>
-      <link>https://example.com/categories/asm/</link>
+      <link>https://menelith.tech/categories/asm/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/asm/</guid>
+      <guid>https://menelith.tech/categories/asm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>linux</title>
-      <link>https://example.com/categories/linux/</link>
+      <link>https://menelith.tech/categories/linux/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/linux/</guid>
+      <guid>https://menelith.tech/categories/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>x86_64</title>
-      <link>https://example.com/categories/x86_64/</link>
+      <link>https://menelith.tech/categories/x86_64/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/x86_64/</guid>
+      <guid>https://menelith.tech/categories/x86_64/</guid>
       <description></description>
     </item>
     
