@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>asm on Menelith - low level Dev, ASM, Go, Malware Development and Analysis</title>
+    <link>https://example.com/categories/asm/</link>
+    <description>Recent content in asm on Menelith - low level Dev, ASM, Go, Malware Development and Analysis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/categories/asm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Markdown and Shortcodes</title>
+      <link>https://example.com/blog/asm_x86_64_threads/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/asm_x86_64_threads/</guid>
+      <description>section text:mov eax,10syscall package mainimport &amp;#34;fmt&amp;#34;func main() {fmt.Println(&amp;#34;Hello World&amp;#34;)}    First Header Second Header     Content cell 1 Content cell 2   Content column 1 Content column 2     i&amp;rsquo;m a blockquot:e
+ </description>
+    </item>
+    
+  </channel>
+</rss>
