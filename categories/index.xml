@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Menelith - low level Dev, ASM, Go, Malware Development and Analysis</title>
+    <title>Categories on Menelith - low level Programming, ASM, Go, Malware Development and Analysis and Reverse Engineering</title>
     <link>https://menelith.tech/categories/</link>
-    <description>Recent content in Categories on Menelith - low level Dev, ASM, Go, Malware Development and Analysis</description>
+    <description>Recent content in Categories on Menelith - low level Programming, ASM, Go, Malware Development and Analysis and Reverse Engineering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
